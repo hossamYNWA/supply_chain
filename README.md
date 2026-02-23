@@ -8,7 +8,6 @@ An interactive business intelligence dashboard built in **Excel** providing comp
 - [Dashboard Views](#dashboard-views)
 - [Key Metrics](#key-metrics)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Data Sources](#data-sources)
 - [Screenshots](#screenshots)
